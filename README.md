@@ -1,4 +1,7 @@
 # Préparation
+## Sujet
+Avec les données mise à disposition, déterminer l'espérance de vie postopératoire des patients atteints d'un cancer du poumon.
+
 ## Formation
 ## Technologies
 - Langage : Python
