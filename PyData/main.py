@@ -1,7 +1,8 @@
 from scipy.io import arff
 import pandas as pd
 
-data = arff.loadarff('../Data/ThoraricSurgery.arff')
-df = pd.DataFrame(data[0])
+from PyData.classic import Classic
 
-df.head()
+result = Classic()
+result.Display(result.data)
+
